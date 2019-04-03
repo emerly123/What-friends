@@ -1,0 +1,33 @@
+.Chandler{
+    font-size:50px;
+    color:red;
+    text-decoration:underline;
+}
+.Joey{
+    font-size:50px;
+    color:purple;
+    text-decoration:underline red ;
+}
+.phoebe{
+    font-size:50px;
+    color:blue;
+    text-decoration:underline;
+}
+.monica{
+    font-size:50px;
+    color:green;
+    text-decoration:underline;
+}
+body{
+    text-align:center;
+}
+h1{
+    color:red;
+    text-decoration:underline;
+}
+p{
+    color:blue;
+}
+button{
+    color:green;
+}
